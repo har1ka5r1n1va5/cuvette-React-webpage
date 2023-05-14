@@ -64,7 +64,6 @@ function Bottomsection(){
                 </div>
                 <p>&nbsp;</p>
                 <p style={para}>hello@dweep.io</p>
-
             </section>
 
         </div>
